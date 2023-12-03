@@ -1,0 +1,12 @@
+Mes: 1 Cantidad de accesos fallidos: 0
+Mes: 2 Cantidad de accesos fallidos: 0
+Mes: 3 Cantidad de accesos fallidos: 0
+Mes: 4 Cantidad de accesos fallidos: 0
+Mes: 5 Cantidad de accesos fallidos: 0
+Mes: 6 Cantidad de accesos fallidos: 3331
+Mes: 7 Cantidad de accesos fallidos: 3411
+Mes: 8 Cantidad de accesos fallidos: 3320
+Mes: 9 Cantidad de accesos fallidos: 3462
+Mes: 10 Cantidad de accesos fallidos: 3283
+Mes: 11 Cantidad de accesos fallidos: 0
+Mes: 12 Cantidad de accesos fallidos: 0
