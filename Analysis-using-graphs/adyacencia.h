@@ -13,19 +13,19 @@ Fecha: 21 de noviembre del 2023
 #include <string>
 
 class adyacencia {
-  // Atributos privados
+    // Atributos privados
 private:
-  std::string id;
-  adyacencia *next = nullptr;
-  // Metodos publicos
+    std::string id;
+    adyacencia* next = nullptr;
+    // Metodos publicos
 public:
-  // Constructor
-  adyacencia(std::string);
-  // Getters
-  std::string Id();
-  adyacencia *getNext();
-  // Setters
-  void setNext(adyacencia *);
+    // Constructor
+    adyacencia(std::string);
+    // Getters
+    std::string Id();
+    adyacencia* getNext();
+    // Setters
+    void setNext(adyacencia*);
 };
 
 // Constructor
@@ -34,7 +34,7 @@ adyacencia::adyacencia(std::string id) { this->id = id; }
 // Getters
 std::string adyacencia::Id() { return id; }
 
-adyacencia *adyacencia::getNext() { return next; }
+adyacencia* adyacencia::getNext() { return next; }
 
 // Setters
-void adyacencia::setNext(adyacencia *next) { this->next = next; }
+void adyacencia::setNext(adyacencia* next) { this->next = next; }
