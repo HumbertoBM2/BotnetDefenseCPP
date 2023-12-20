@@ -1,4 +1,12 @@
+<div align="center">
+
 # BotnetDefenseCPP
+
+##### C++ implementations of algorithms and data structures designed for the analysis of server logs in order to identify and combat botnet attacks. 
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</div>
 
 ## Overview
 
