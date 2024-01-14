@@ -65,7 +65,7 @@ For each folder, you can compile the main source file to generate the executable
 g++ main.cpp -o main.exe
 ```
 
-Run the compiled executable
+Run the compiled executable.
 
 ```bash
 ./main.exe
