@@ -14,7 +14,7 @@ This repository contains C++ implementations of algorithms and data structures d
 
 ## Folder structure
 
-The project comprises five folders, each hosting a different application tailored for specific log analysis scenarios.
+The project comprises five folders, each hosting a different application tailored for specific log analysis scenarios. 
 
 ### Analysis-Using-Vectors-And-Algorithms
 
